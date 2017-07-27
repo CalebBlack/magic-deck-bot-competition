@@ -17,3 +17,4 @@
 <p>Fork and pull in your profile</p>
 <p>&lt;name&gt; &lt;github username&gt; &lt;bot code repo&gt;</p>
 <p>Jacob Evans @jacobtheevans https://github.com/JacobTheEvans/magic-deck-bot</p>
+<p>Caleb Black @CalebBlack NA</p>
